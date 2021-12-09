@@ -1,0 +1,441 @@
+	*,*::before,*::after{box-sizing:border-box;padding:0;margin:0;background:none;text-decoration:none;outline:none;font-family:inherit;font-size:inherit;line-height:inherit;font-weight:inherit;color:inherit;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-feature-settings:"onum", "kern", "liga", "clig", "calt"}
+
+@font-face{font-family:'Domaine';src:url("fonts/DomaineSansDisplayLight.otf") format("opentype");font-weight:400;font-style:normal}:root{--c-bg: #fdeded;--c-text: #39303c;--f-family: Domaine, bodoni, didot, serif;--f-size: 3.5vmax;--f-height: 4.5vmax;--f-weight: 400;--f-align: left;--f-scale-s: 0.8;--f-scale-m: 1.25;--f-scale-l: 1.563;--f-scale-xl: 1.953;--f-scale-xxl: 2.441;font-size:var(--f-height);font-family:var(--f-family);font-weight:var(--f-weight);text-align:var(--f-align);background:var(--c-bg);color:var(--c-text)}
+@media (min-width: 600px){:root{--f-size: 4.5vmax;--f-height: 5.5vmax;--f-align: center}}
+body,html{margin:0;min-height:100vh}
+body *,html *{font-size:var(--f-size);line-height:1rem}
+main{overflow:hidden}
+h1,h2,p,small,figure{-webkit-transition-property:opacity , -webkit-transform;transition-property:opacity , -webkit-transform;transition-property:opacity , transform;transition-property:opacity , transform , -webkit-transform;-webkit-transition-timing-function:cubic-bezier(0.31, 0.02, 0.42, 0.96);transition-timing-function:cubic-bezier(0.31, 0.02, 0.42, 0.96);-webkit-transition-duration:1.5s;transition-duration:1.5s}h2,p{-webkit-transition-delay:300ms;transition-delay:300ms}
+figure{-webkit-transition-delay:500ms;transition-delay:500ms}
+small{-webkit-transition-delay:800ms;transition-delay:800ms}
+.hidden{opacity:0;-webkit-transform:translateY(10vmin);transform:translateY(10vmin)}
+h1.hidden{-webkit-transform:translateY(15vmin);transform:translateY(15vmin)}
+small.hidden{-webkit-transform:translateY(0);transform:translateY(0)}.title{padding:1rem 1rem 0.5rem}.logo{fill:var(--c-text)}
+.subtitle{margin-bottom:1rem;padding:0 1rem}
+.picture{display:block;width:100%;position:relative;padding-bottom:80%;height:0;overflow:hidden;max-width:100%}
+.picture.picture-wide{padding-bottom:42.5%}
+.picture object,.picture embed,.picture img.fixed{position:absolute;top:0;left:0;width:100%;height:100%;display:block}
+img.fixed{-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}
+p{margin:1rem auto;max-width:15rem;padding:0 1rem; z-index: 1;}
+img.poster{position:relative;top:0;left:0;width:100%;height:100%;display:block}
+img.poster{-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}
+img.poster2{position:relative;top:0;left:0;width:100%;height:100%;display:block;opacity:80%;}
+img.poster2{-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}
+img.poster2:hover{opacity:100%;}
+
+small{font-size:4vw;line-height:5vw;display:block;margin:1rem auto;max-width:15rem;padding:0 1rem}
+@media (min-width: 1000px){small{font-size:2.1vw;line-height:2.7vw}}a,br{font-size:inherit;line-height:inherit}
+p a,small a{display:inline-block;background:linear-gradient(to top, var(--c-text) 1px, var(--c-bg) 1px) no-repeat bottom center;-webkit-transition:background-size 300ms ease-out;transition:background-size 300ms ease-out;background-size:0% 100%}
+p a:hover,small a:hover{background-size:100% 100%}
+@media (max-width: 789px)
+	{p a span{display:block}}
+p a:first-of-type{
+	margin-top:0.5rem}
+@media (max-width: 599px) 
+	{.desk-only{display:none}}
+
+div.left{
+	position: relative; 
+	width: 35%;
+	background-color: white;
+	margin-top:10em;
+	margin-left: 6em;
+	font-family: georgia, serif;
+	font-size: .3em;
+	text-align: left;
+	line-height: 1.5em;
+	left:50%; 
+	z-index: 2; 
+	padding-left:2em; 
+	padding-right:1em; 
+	padding-top:1em;
+	padding-bottom:1em;}
+
+
+
+div.poster{
+	position: relative;
+	float: right; 
+	width: 50%;
+	margin-top: 1em;
+	margin-left: 1em;
+	z-index: 3; 
+	padding-left:.5em; 
+	padding-right:.5em; 
+	padding-top:0em;
+	padding-bottom:1em;}
+
+div.button{
+	cursor:url('hand.png'),pointer;
+	position: relative; 
+	float: left;
+	width: 40%;
+	height: 20em;
+	margin-top:10em;
+	margin-left: 2em;
+	font-family: georgia, serif;
+	font-size: .3em;
+	text-align: left;
+	line-height: 1.5em;
+	z-index: 2; 
+	padding-left:1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	padding-bottom:1em;}
+
+	div.button:active{
+		cursor:url('hand2.png'),pointer;
+	}
+
+
+div.map{
+	position: relative; 
+	float: left;
+	width: 40%;
+	height: 20em;
+	margin-top:10em;
+	margin-left: 2em;
+	font-family: georgia, serif;
+	font-size: .3em;
+	text-align: left;
+	line-height: 1.5em;
+	z-index: 2; 
+	padding-left:1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	padding-bottom:1em;}
+
+div.right{
+	position: relative; 
+	width: 40%;
+	margin-top:10em;
+	margin-left: 2em;
+	font-family: georgia, serif;
+	font-size: .3em;
+	text-align: left;
+	line-height: 1.5em;
+	z-index: 2; 
+	padding-left:1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	padding-bottom:1em;}
+
+div.right span{
+	background-color: white;
+	font-size: 1em;
+	text-align: left;
+	padding-left:.7em; 
+	padding-right:.7em; 
+	padding-top:.7em;
+	padding-bottom:.7em;}
+
+}
+
+div.left span{
+	background-color: white;
+	font-size: 1em;
+	line-height: 1.5em;
+	text-align: left;
+	padding-left:.7em; 
+	padding-right:.7em; 
+	padding-top:.7em;
+	padding-bottom:.7em;}
+
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext1 {
+opacity: 0;
+  font-size: 1em;
+	line-height: 1.2em;
+	text-align: left;
+  width: 13.5em;
+  background-color: white;
+  text-align: left;
+  padding: .7em;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 5%;
+  left: 45%;
+}
+
+.tooltip .tooltiptext2 {
+opacity: 0;
+  font-size: 1em;
+	line-height: 1.5em;
+	text-align: left;
+  width: 13em;
+  background-color: white;
+  text-align: left;
+  padding: .75em;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 28%;
+  left: 57%;
+}
+
+.tooltip .tooltiptext3 {
+opacity: 0;
+  font-size: 1em;
+	line-height: 1.5em;
+	text-align: left;
+  width: 20em;
+  background-color: white;
+  text-align: left;
+  padding: 1em;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 12%;
+  left: 57%;
+}
+
+.tooltip .tooltiptext4 {
+opacity: 0;
+  font-size: 1em;
+	line-height: 1.5em;
+	text-align: left;
+  width: 5em;
+  background-color: white;
+  text-align: left;
+  padding: .75em;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 51%;
+  left: 93%;
+}
+
+.tooltip .tooltiptext5 {
+opacity: 0;
+  font-size: 1em;
+	line-height: 1.5em;
+	text-align: left;
+  width: 23em;
+  background-color: white;
+  text-align: left;
+  padding: 1em;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 53%;
+  left: 45%;
+}
+.tooltip .tooltiptext6 {
+opacity: 0;
+  font-size: 1em;
+	line-height: 1.5em;
+	text-align: left;
+  width: 18em;
+  background-color: white;
+  text-align: left;
+  padding: .75em;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 75%;
+  left: 65%;
+}
+.tooltip .tooltiptext7 {
+opacity: 0;
+  font-size: 1em;
+	line-height: 1.5em;
+	text-align: left;
+  width: 23em;
+  background-color: white;
+  text-align: left;
+  padding: .75em;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 98%;
+  left: 3%;
+}
+.tooltip .tooltiptext8 {
+opacity: 0;
+  font-size: 1em;
+	line-height: 1.5em;
+	text-align: left;
+  width: 23em;
+  background-color: white;
+  text-align: left;
+  padding: 1em;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 6%;
+  left: 45%;
+}
+.tooltip:hover .tooltiptext1 {
+  opacity: 1;
+}
+
+.tooltip:hover .tooltiptext2 {
+  opacity: 1;
+}
+.tooltip:hover .tooltiptext3 {
+  opacity: 1;
+}
+.tooltip:hover .tooltiptext4 {
+  opacity: 1;
+}
+.tooltip:hover .tooltiptext5 {
+  opacity: 1;
+}
+.tooltip:hover .tooltiptext6 {
+  opacity: 1;
+}
+.tooltip:hover .tooltiptext7 {
+  opacity: 1;
+}
+.tooltip:hover .tooltiptext8 {
+  opacity: 1;
+}
+
+
+div.game1{
+	opacity:0;
+	position: absolute; 
+	float:left;
+	width: 33%;
+	height:100em;
+	background-color:white;
+	margin-top:0em;
+	margin-left: 0em;
+	font-family: georgia, serif;
+	font-size: .3em;
+	text-align: left;
+	line-height: 1.5em;
+	z-index: 2; 
+	padding-left:1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	padding-bottom:1em
+}
+
+div.game2{
+	opacity:0;
+	position: absolute; 
+	float:left;
+	width: 33%;
+	left:33%;
+	height:100em;
+	background-color:white;
+	margin-top:0em;
+	margin-left: 0em;
+	font-family: georgia, serif;
+	font-size: .3em;
+	text-align: left;
+	line-height: 1.5em;
+	z-index: 2; 
+	padding-left:1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	padding-bottom:1em
+}
+
+div.game3{
+	opacity:0;
+	position: relative; 
+	float:right;
+	width: 34%;
+	left:66;
+	height:100em;
+	background-color:white;
+	margin-top:0em;
+	margin-left: 0em;
+	font-family: georgia, serif;
+	font-size: .3em;
+	text-align: left;
+	line-height: 1.5em;
+	z-index: 2; 
+	padding-left:1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	padding-bottom:1em
+}
+div.game{
+	opacity:0;
+	position: relative; 
+	float:left;
+	width: 50%;
+	height:100em;
+	background-color:white;
+	margin-top:0em;
+	margin-left: 0em;
+	font-family: georgia, serif;
+	font-size: .3em;
+	text-align: left;
+	line-height: 1.5em;
+	z-index: 2; 
+	padding-left:1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	padding-bottom:1em
+}
+div.gallery{
+		opacity:0;
+	position: absolute; 
+	width: 50%;
+	left:50%;
+	height:100em;
+	background-color:white;
+	margin-top:0em;
+	margin-left: 0em;
+	z-index: 2; 
+
+}
+div.game:hover {
+	opacity:0.6;
+	cursor:url('hand.png'),pointer;
+}
+div.game1:hover {
+	opacity:0.6;
+	cursor:url('game.gif'),pointer;
+}
+div.game2:hover {
+	opacity:0.6;
+	cursor:url('game.gif'),pointer;
+}
+div.game3:hover {
+	opacity:0.6;
+	cursor:url('hand.png'),pointer;
+}
+
+div.game:active{
+		cursor:url('hand2.png'),pointer;
+	}
+div.game1:active{
+		cursor:url('game.gif'),pointer;
+	}
+div.game2:active{
+		cursor:url('game.gif'),pointer;
+	}
+div.game3:active{
+		cursor:url('hand2.png'),pointer;
+	}
+
+
+div.gallery:hover {
+	opacity:0.6;
+		cursor:url('hand.png'),pointer;
+}
+	div.gallery:active{
+		cursor:url('hand2.png'),pointer;
+	}
+
