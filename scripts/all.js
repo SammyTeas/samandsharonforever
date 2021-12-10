@@ -606,7 +606,7 @@ define("scripts/sence.js", function(exports){
 	    var times = callee.times = ++ callee.times || 1;
 	
 	    peach = fruit.create( "peach", 100, 333, true );
-	    sandia = fruit.create( "sandia", 300, 300, true );
+	    sandia = fruit.create( "sandia", 340, 325, true );
 	    boom = fruit.create( "boom", 552, 367, true, 2500 );
 	
 	    [ peach, sandia, boom ].forEach(function( f ){ f.isHomeMenu = 1; });
