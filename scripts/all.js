@@ -1122,7 +1122,7 @@ define("scripts/factory/fruit.js", function(exports){
 		// type: [ imageSrc, width, height, radius, fixAngle, isReverse, juiceColor ]
 		boom: [ "images/fruit/boom.png", 66, 68, 26, 0, 0, null ],
 		peach: [ "images/fruit/peach.png", 200, 170, 70, -160, 0, "#e6c731" ],
-		sandia: [ "images/fruit/sandia.png", 150, 140, 38, -100, 0, "#c00" ],
+		sandia: [ "images/fruit/sandia.png", 150, 140, 70, -100, 0, "#c00" ],
 		apple: [ "images/fruit/apple.png", 66, 66, 31, -54, 0, "#c8e925" ],
 		banana: [ "images/fruit/banana.png", 126, 50, 43, 90, 0, null ],
 		basaha: [ "images/fruit/basaha.png", 68, 72, 32, -135, 0, "#c00" ]
