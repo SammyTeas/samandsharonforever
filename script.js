@@ -13,7 +13,7 @@ var gameOverText = new Text({
   fontFamily: "Lato",
   size: 30,
   color: "#0B9957",
-  text: "Search for HiddenTreasure"
+  text: "Search for Skype"
 });
 var playAgainText = new Text({
   x: 0,
