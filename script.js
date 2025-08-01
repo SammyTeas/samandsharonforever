@@ -13,7 +13,7 @@ var gameOverText = new Text({
   fontFamily: "Lato",
   size: 30,
   color: "#0B9957",
-  text: "Game over!"
+  text: "Search for HiddenTreasure"
 });
 var playAgainText = new Text({
   x: 0,
@@ -21,7 +21,7 @@ var playAgainText = new Text({
   fontFamily: "Lato",
   size: 20,
   color: "#0B9957",
-  text: "Press P to play again"
+  text: "Like, actually search for it"
 });
 gameOverText.hide()
 playAgainText.hide()
