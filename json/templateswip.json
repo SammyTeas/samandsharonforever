@@ -1,0 +1,18 @@
+{
+"templates": [
+    {
+        "id": "1", 
+        "title": "Pangram Duel",
+        "thumbnail": "img/1.jpg", 
+        "image": "/img/1.jpg", 
+        "template": "1.json",
+    },
+    {
+        "id": "2", 
+        "title": "Valentine's Day - Instagram Post - Square - 1080x1080px",
+        "thumbnail": "files/templates/img/2.jpg",
+        "image": "files/templates/img/2-large.jpg",
+        "template": "files/templates/json/2.json", 
+    },
+   ]
+}

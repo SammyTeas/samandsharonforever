@@ -1,0 +1,508 @@
+{
+"templates": [
+    {
+        "id": "1", 
+        "title": "Sale Banner - Instagram Post - Discount Offer - Square - 1080x1080px",
+        "thumbnail": "files/templates/img/1.jpg", 
+        "image": "files/templates/img/1-large.jpg", 
+        "template": "files/templates/json/1.json",
+        "tags": "instagram-post banner-ads"
+    },
+    {
+        "id": "2", 
+        "title": "Valentine's Day - Instagram Post - Square - 1080x1080px",
+        "thumbnail": "files/templates/img/2.jpg",
+        "image": "files/templates/img/2-large.jpg",
+        "template": "files/templates/json/2.json", 
+        "tags": "instagram-post"
+    },
+    {
+        "id": "3", 
+        "title": "Quote - 800x600px",
+        "thumbnail": "files/templates/img/3.jpg",
+        "image": "files/templates/img/3-large.jpg", 
+        "template": "files/templates/json/3.json",
+        "tags": "quote"
+    },
+    {
+        "id": "4", 
+        "title": "Quote - 900x600px",
+        "thumbnail": "files/templates/img/4.jpg", 
+        "image": "files/templates/img/4-large.jpg", 
+        "template": "files/templates/json/4.json", 
+        "tags": "quote"
+    },
+    {
+        "id": "5", 
+        "title": "App Banner - 2000x1300px",
+        "thumbnail": "files/templates/img/5.jpg", 
+        "image": "files/templates/img/5-large.jpg", 
+        "template": "files/templates/json/5.json", 
+        "tags": "banner-ads"
+    },
+    {
+        "id": "6", 
+        "title": "Fitness Banner - Medium Rectangle - 300x250px",
+        "thumbnail": "files/templates/img/6.jpg", 
+        "image": "files/templates/img/6-large.jpg", 
+        "template": "files/templates/json/6.json", 
+        "tags": "banner-ads medium-rectangle"
+    },
+    {
+        "id": "7", 
+        "title": "Fitness Banner - Medium Rectangle - 300x250px",
+        "thumbnail": "files/templates/img/7.jpg", 
+        "image": "files/templates/img/7-large.jpg", 
+        "template": "files/templates/json/7.json", 
+        "tags": "banner-ads medium-rectangle"
+    },
+    {
+        "id": "8", 
+        "title": "Digital Agency Banner - Leaderboard - 728x90px",
+        "thumbnail": "files/templates/img/8.jpg", 
+        "image": "files/templates/img/8-large.jpg", 
+        "template": "files/templates/json/8.json", 
+        "tags": "banner-ads leaderboard"
+    },
+    {
+        "id": "9", 
+        "title": "Pet Shop Banner - Billboard - 970x250px",
+        "thumbnail": "files/templates/img/9.jpg", 
+        "image": "files/templates/img/9-large.jpg", 
+        "template": "files/templates/json/9.json", 
+        "tags": "banner-ads billboard"
+    },
+    {
+        "id": "10", 
+        "title": "Summer Sale - Facebook Ad - 1200x628px",
+        "thumbnail": "files/templates/img/10.jpg", 
+        "image": "files/templates/img/10-large.jpg", 
+        "template": "files/templates/json/10.json", 
+        "tags": "banner-ads facebook-ads"
+    },
+    {
+        "id": "11", 
+        "title": "Sale Banner - Facebook Ad - 1200x628px",
+        "thumbnail": "files/templates/img/11.jpg", 
+        "image": "files/templates/img/11-large.jpg", 
+        "template": "files/templates/json/11.json", 
+        "tags": "banner-ads facebook-ads"
+    },
+    {
+        "id": "12", 
+        "title": "Christmas Sale - Instagram Post - Square - 1080x1080px",
+        "thumbnail": "files/templates/img/12.jpg", 
+        "image": "files/templates/img/12-large.jpg", 
+        "template": "files/templates/json/12.json", 
+        "tags": "instagram-post"
+    },
+    {
+        "id": "13", 
+        "title": "Business Facebook Post - 940x788px",
+        "thumbnail": "files/templates/img/13.jpg", 
+        "image": "files/templates/img/13-large.jpg", 
+        "template": "files/templates/json/13.json", 
+        "tags": "facebook-post"
+    },
+    {
+        "id": "14", 
+        "title": "Trending Music Video - Youtube Thumbnail - 1280x720px",
+        "thumbnail": "files/templates/img/14.jpg", 
+        "image": "files/templates/img/14-large.jpg", 
+        "template": "files/templates/json/14.json", 
+        "tags": "youtube-thumbnail"
+    },
+    {
+        "id": "15", 
+        "title": "Youtube Video Thumbnail - 1280x720px",
+        "thumbnail": "files/templates/img/15.jpg", 
+        "image": "files/templates/img/15-large.jpg", 
+        "template": "files/templates/json/15.json", 
+        "tags": "youtube-thumbnail"
+    },
+    {
+        "id": "16", 
+        "title": "Collage - 3 Photos - 2000x2000px",
+        "thumbnail": "files/templates/img/16.jpg", 
+        "image": "files/templates/img/16-large.jpg", 
+        "template": "files/templates/json/16.json", 
+        "tags": "collage"
+    },
+    {
+        "id": "17", 
+        "title": "Kids Style Collage - 2 Photos - 2000x1300px",
+        "thumbnail": "files/templates/img/17.jpg", 
+        "image": "files/templates/img/17-large.jpg", 
+        "template": "files/templates/json/17.json", 
+        "tags": "collage"
+    },
+    {
+        "id": "18", 
+        "title": "Kids Style Collage - 2 Photos - 2000x2000px",
+        "thumbnail": "files/templates/img/18.jpg", 
+        "image": "files/templates/img/18-large.jpg", 
+        "template": "files/templates/json/18.json", 
+        "tags": "collage"
+    },
+    {
+        "id": "19", 
+        "title": "Stylish Collage - 3 Photos - 2000x2000px",
+        "thumbnail": "files/templates/img/19.jpg", 
+        "image": "files/templates/img/19-large.jpg", 
+        "template": "files/templates/json/19.json", 
+        "tags": "collage"
+    },
+    {
+        "id": "20", 
+        "title": "Modern Collage - 2 Photos - 2000x1300px",
+        "thumbnail": "files/templates/img/20.jpg", 
+        "image": "files/templates/img/20-large.jpg", 
+        "template": "files/templates/json/20.json", 
+        "tags": "collage"
+    },
+    {
+        "id": "21", 
+        "title": "Collage - 5 Photos - 2000x1000px",
+        "thumbnail": "files/templates/img/21.jpg", 
+        "image": "files/templates/img/21-large.jpg", 
+        "template": "files/templates/json/21.json", 
+        "tags": "collage"
+    },
+    {
+        "id": "22", 
+        "title": "Modern Collage - 3 Photos - 2000x2000px",
+        "thumbnail": "files/templates/img/22.jpg", 
+        "image": "files/templates/img/22-large.jpg", 
+        "template": "files/templates/json/22.json", 
+        "tags": "collage"
+    },
+    {
+        "id": "23", 
+        "title": "Black Friday Banner - Leaderboard - 728x90px",
+        "thumbnail": "files/templates/img/23.jpg", 
+        "image": "files/templates/img/23-large.jpg", 
+        "template": "files/templates/json/23.json", 
+        "tags": "banner-ads leaderboard"
+    },
+    {
+        "id": "24", 
+        "title": "Christmas Banner - Leaderboard - 728x90px",
+        "thumbnail": "files/templates/img/24.jpg", 
+        "image": "files/templates/img/24-large.jpg", 
+        "template": "files/templates/json/24.json", 
+        "tags": "banner-ads leaderboard"
+    },
+    {
+        "id": "25", 
+        "title": "Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/25.jpg", 
+        "image": "files/templates/img/25-large.jpg", 
+        "template": "files/templates/json/25.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "26", 
+        "title": "Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/26.jpg", 
+        "image": "files/templates/img/26-large.jpg", 
+        "template": "files/templates/json/26.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "27", 
+        "title": "Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/27.jpg", 
+        "image": "files/templates/img/27-large.jpg", 
+        "template": "files/templates/json/27.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "28", 
+        "title": "Cafe Banner - Billboard - 970x250px",
+        "thumbnail": "files/templates/img/28.jpg", 
+        "image": "files/templates/img/28-large.jpg", 
+        "template": "files/templates/json/28.json", 
+        "tags": "banner-ads billboard"
+    },
+    {
+        "id": "29", 
+        "title": "Happy Birthday - Facebook Post - 940x788px",
+        "thumbnail": "files/templates/img/29.jpg", 
+        "image": "files/templates/img/29-large.jpg", 
+        "template": "files/templates/json/29.json", 
+        "tags": "facebook-post"
+    },
+    {
+        "id": "30", 
+        "title": "Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/30.jpg", 
+        "image": "files/templates/img/30-large.jpg", 
+        "template": "files/templates/json/30.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "31", 
+        "title": "Quote - Twitter Post - 1600x900px",
+        "thumbnail": "files/templates/img/31.jpg", 
+        "image": "files/templates/img/31-large.jpg", 
+        "template": "files/templates/json/31.json", 
+        "tags": "quote twitter-post"
+    },
+    {
+        "id": "32", 
+        "title": "Quote - Instagram Post - 1080x1080px",
+        "thumbnail": "files/templates/img/32.jpg", 
+        "image": "files/templates/img/32-large.jpg", 
+        "template": "files/templates/json/32.json", 
+        "tags": "quote instagram-post"
+    },
+    {
+        "id": "33", 
+        "title": "Happy Children's Day - Facebook Post - 940x788px",
+        "thumbnail": "files/templates/img/33.jpg", 
+        "image": "files/templates/img/33-large.jpg", 
+        "template": "files/templates/json/33.json", 
+        "tags": "facebook-post"
+    },
+    {
+        "id": "34", 
+        "title": "Business Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/34.jpg", 
+        "image": "files/templates/img/34-large.jpg", 
+        "template": "files/templates/json/34.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "35", 
+        "title": "Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/35.jpg", 
+        "image": "files/templates/img/35-large.jpg", 
+        "template": "files/templates/json/35.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "36", 
+        "title": "Beauty - Leaderboard - 728x90px",
+        "thumbnail": "files/templates/img/36.jpg", 
+        "image": "files/templates/img/36-large.jpg", 
+        "template": "files/templates/json/36.json", 
+        "tags": "leaderboard"
+    },
+    {
+        "id": "37", 
+        "title": "Quote - Twitter Post - 1600x900px",
+        "thumbnail": "files/templates/img/37.jpg", 
+        "image": "files/templates/img/37-large.jpg", 
+        "template": "files/templates/json/37.json", 
+        "tags": "quote twitter-post"
+    },
+    {
+        "id": "38", 
+        "title": "Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/38.jpg", 
+        "image": "files/templates/img/38-large.jpg", 
+        "template": "files/templates/json/38.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "39", 
+        "title": "Banner - Twitter Post - 1600x900px",
+        "thumbnail": "files/templates/img/39.jpg", 
+        "image": "files/templates/img/39-large.jpg", 
+        "template": "files/templates/json/39.json", 
+        "tags": "banner-ads twitter-post"
+    },
+    {
+        "id": "40", 
+        "title": "Fashion Banner - Facebook Ad - 1200x628px",
+        "thumbnail": "files/templates/img/40.jpg", 
+        "image": "files/templates/img/40-large.jpg", 
+        "template": "files/templates/json/40.json", 
+        "tags": "banner-ads facebook-ads"
+    },
+    {
+        "id": "41", 
+        "title": "Real Estate - Facebook Post - 940x788px",
+        "thumbnail": "files/templates/img/41.jpg", 
+        "image": "files/templates/img/41-large.jpg", 
+        "template": "files/templates/json/41.json", 
+        "tags": "banner-ads facebook-post"
+    },
+    {
+        "id": "42", 
+        "title": "Business Banner - Instagram Post - 1080x1080px",
+        "thumbnail": "files/templates/img/42.jpg", 
+        "image": "files/templates/img/42-large.jpg", 
+        "template": "files/templates/json/42.json", 
+        "tags": "banner-ads instagram-post"
+    },
+    {
+        "id": "43", 
+        "title": "Polaroid - Instagram Post - 1080x1080px",
+        "thumbnail": "files/templates/img/43.jpg", 
+        "image": "files/templates/img/43-large.jpg", 
+        "template": "files/templates/json/43.json", 
+        "tags": "instagram-post"
+    },
+    {
+        "id": "44", 
+        "title": "Christmas - Instagram Post - 1080x1080px",
+        "thumbnail": "files/templates/img/44.jpg", 
+        "image": "files/templates/img/44-large.jpg", 
+        "template": "files/templates/json/44.json", 
+        "tags": "instagram-post"
+    },
+    {
+        "id": "45", 
+        "title": "Trendy Furniture - Facebook Ads - 1200x628px",
+        "thumbnail": "files/templates/img/45.jpg", 
+        "image": "files/templates/img/45-large.jpg", 
+        "template": "files/templates/json/45.json", 
+        "tags": "banner-ads facebook-ads"
+    },
+    {
+        "id": "46", 
+        "title": "Stop War - Twitter Post - 1600x900px",
+        "thumbnail": "files/templates/img/46.jpg", 
+        "image": "files/templates/img/46-large.jpg", 
+        "template": "files/templates/json/46.json", 
+        "tags": "twitter-post"
+    },
+    {
+        "id": "47", 
+        "title": "September - Twitter Post - 1600x900px",
+        "thumbnail": "files/templates/img/47.jpg", 
+        "image": "files/templates/img/47-large.jpg", 
+        "template": "files/templates/json/47.json", 
+        "tags": "twitter-post"
+    },
+    {
+        "id": "48", 
+        "title": "Attractive - Youtube Thumbnail - 1280x720px",
+        "thumbnail": "files/templates/img/48.jpg", 
+        "image": "files/templates/img/48-large.jpg", 
+        "template": "files/templates/json/48.json", 
+        "tags": "youtube-thumbnail"
+    },
+    {
+        "id": "49", 
+        "title": "Christmas - Facebook Post -  940x788px",
+        "thumbnail": "files/templates/img/49.jpg", 
+        "image": "files/templates/img/49-large.jpg", 
+        "template": "files/templates/json/49.json", 
+        "tags": "facebook-post"
+    },
+    {
+        "id": "50", 
+        "title": "Business - Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/50.jpg", 
+        "image": "files/templates/img/50-large.jpg", 
+        "template": "files/templates/json/50.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "51", 
+        "title": "New Trend - Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/51.jpg", 
+        "image": "files/templates/img/51-large.jpg", 
+        "template": "files/templates/json/51.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "52", 
+        "title": "Coming Soon - Instagram Post - 1080x1080px",
+        "thumbnail": "files/templates/img/52.jpg", 
+        "image": "files/templates/img/52-large.jpg", 
+        "template": "files/templates/json/52.json", 
+        "tags": "instagram-post"
+    },
+    {
+        "id": "53", 
+        "title": "The Best Investment - Instagram Post - 1080x1350px",
+        "thumbnail": "files/templates/img/53.jpg", 
+        "image": "files/templates/img/53-large.jpg", 
+        "template": "files/templates/json/53.json", 
+        "tags": "instagram-post"
+    },
+    {
+        "id": "54", 
+        "title": "Premium Collection - Facebook Ads - 1200x628px",
+        "thumbnail": "files/templates/img/54.jpg", 
+        "image": "files/templates/img/54-large.jpg", 
+        "template": "files/templates/json/54.json", 
+        "tags": "banner-ads facebook-ads"
+    },
+    {
+        "id": "55", 
+        "title": "Explore London - Facebook Ads - 1200x628px",
+        "thumbnail": "files/templates/img/55.jpg", 
+        "image": "files/templates/img/55-large.jpg", 
+        "template": "files/templates/json/55.json", 
+        "tags": "banner-ads facebook-ads"
+    },
+    {
+        "id": "56", 
+        "title": "Breaking News - Twitter Post - 1600x900px",
+        "thumbnail": "files/templates/img/56.jpg", 
+        "image": "files/templates/img/56-large.jpg", 
+        "template": "files/templates/json/56.json", 
+        "tags": "twitter-post"
+    },
+    {
+        "id": "57", 
+        "title": "Leader - Youtube Thumbnail - 1280x720px",
+        "thumbnail": "files/templates/img/57.jpg", 
+        "image": "files/templates/img/57-large.jpg", 
+        "template": "files/templates/json/57.json", 
+        "tags": "youtube-thumbnail"
+    },
+    {
+        "id": "58", 
+        "title": "Quote - Facebook Post - 940x788px",
+        "thumbnail": "files/templates/img/58.jpg", 
+        "image": "files/templates/img/58-large.jpg", 
+        "template": "files/templates/json/58.json", 
+        "tags": "quote facebook-post"
+    },
+    {
+        "id": "59", 
+        "title": "Business Coach - Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/59.jpg", 
+        "image": "files/templates/img/59-large.jpg", 
+        "template": "files/templates/json/59.json", 
+        "tags": "banner-ads blog-banners"
+    },
+    {
+        "id": "60", 
+        "title": "Business Tips - Blog Banner - 2240x1260px",
+        "thumbnail": "files/templates/img/60.jpg", 
+        "image": "files/templates/img/60-large.jpg", 
+        "template": "files/templates/json/60.json", 
+        "tags": "blog-banners"
+    },
+    {
+        "id": "61", 
+        "title": "Beauty Salon - Facebook Post -  940x788px",
+        "thumbnail": "files/templates/img/61.jpg", 
+        "image": "files/templates/img/61-large.jpg", 
+        "template": "files/templates/json/61.json", 
+        "tags": "facebook-post"
+    },
+    {
+        "id": "62", 
+        "title": "Business Quote - Instagram Post - 1080x1080px",
+        "thumbnail": "files/templates/img/62.jpg", 
+        "image": "files/templates/img/62-large.jpg", 
+        "template": "files/templates/json/62.json", 
+        "tags": "facebook-post"
+    },
+    {
+        "id": "63", 
+        "title": "Football - Instagram Post - 1080x1080px",
+        "thumbnail": "files/templates/img/63.jpg", 
+        "image": "files/templates/img/63-large.jpg", 
+        "template": "files/templates/json/63.json", 
+        "tags": "instagram-post"
+    }
+]
+}
