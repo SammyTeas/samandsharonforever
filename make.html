@@ -73,11 +73,14 @@
             <span class="material-icons">add_photo_alternate</span><span class="palleon-icon-menu-title">Image</span>
         </button>
         <button id="palleon-btn-elements" type="button" class="palleon-icon-menu-btn" data-target="#palleon-elements">
-            <span class="material-icons">brush</span><span class="palleon-icon-menu-title">Elements</span>
+            <span class="material-icons">star</span><span class="palleon-icon-menu-title">Elements</span>
         </button>
         <button id="palleon-btn-settings" type="button" class="palleon-icon-menu-btn stick-to-bottom"
             data-target="#palleon-settings">
             <span class="material-icons">settings</span><span class="palleon-icon-menu-title">Settings</span>
+        </button>
+       <button id="palleon-btn-draw" type="button" class="palleon-icon-menu-btn" data-target="#palleon-draw">
+            <span class="material-icons">brush</span><span class="palleon-icon-menu-title">Brushes</span>
         </button>
     </div>
     <!-- Icon Menu END -->
@@ -1735,19 +1738,19 @@
                                     </div>
                                 </div>
                             </li>
-                            <li data-keyword="ink brush strokes"><a>SHREK<span class="data-count">21</span><span class="material-icons arrow">keyboard_arrow_down</span></a>
+                            <li data-keyword="ink brush strokes"><a>SHREK<span class="data-count">6</span><span class="material-icons arrow">keyboard_arrow_down</span></a>
                                 <div>
-                                    <div id="palleon-elements-grid-ink-brush-strokes" class="palleon-grid palleon-elements-grid four-column paginated auto-load-elements" data-perpage="12" data-total="21" data-folder="ink-brush-strokes" data-theme="dark" data-loader="no"></div>
+                                    <div id="palleon-elements-grid-ink-brush-strokes" class="palleon-grid palleon-elements-grid four-column paginated auto-load-elements" data-perpage="12" data-total="6" data-folder="ink-brush-strokes" data-theme="dark" data-loader="no"></div>
                                 </div>
                             </li>
-                            <li data-keyword="abstract shapes"><a>SHRED<span class="data-count">52</span><span class="material-icons arrow">keyboard_arrow_down</span></a>
+                            <li data-keyword="abstract shapes"><a>SHRED<span class="data-count">5</span><span class="material-icons arrow">keyboard_arrow_down</span></a>
                                 <div>
-                                    <div id="palleon-elements-grid-abstract-shapes" class="palleon-grid palleon-elements-grid four-column paginated auto-load-elements" data-perpage="12" data-total="52" data-folder="abstract-shapes" data-theme="dark" data-loader="no"></div>
+                                    <div id="palleon-elements-grid-abstract-shapes" class="palleon-grid palleon-elements-grid four-column paginated auto-load-elements" data-perpage="12" data-total="5" data-folder="abstract-shapes" data-theme="dark" data-loader="no"></div>
                                 </div>
                             </li>
-                            <li data-keyword="abstract shapes"><a>FOTO<span class="data-count">52</span><span class="material-icons arrow">keyboard_arrow_down</span></a>
+                            <li data-keyword="abstract shapes"><a>FOTO<span class="data-count">12</span><span class="material-icons arrow">keyboard_arrow_down</span></a>
                                 <div>
-                                    <div id="palleon-elements-grid-abstract-shapes" class="palleon-grid palleon-elements-grid four-column paginated auto-load-elements" data-perpage="12" data-total="52" data-folder="abstract-shapes" data-theme="dark" data-loader="no"></div>
+                                    <div id="palleon-elements-grid-abstract-shapes" class="palleon-grid palleon-elements-grid four-column paginated auto-load-elements" data-perpage="12" data-total="12" data-folder="abstract-shapes" data-theme="dark" data-loader="no"></div>
                                 </div>
                             </li>
                                 </div>
@@ -2490,11 +2493,6 @@
                         <div class="palleon-control">
                             <select id="palleon-brush-select" class="palleon-select" autocomplete="off">
                                 <option value="pencil" selected>Pencil</option>
-                                <option value="circle">Circle</option>
-                                <option value="spray">Spray</option>
-                                <option value="hline">H-line Pattern</option>
-                                <option value="vline">V-line Pattern</option>
-                                <option value="square">Square Pattern</option>
                                 <option value="erase">Erase BG Image</option>
                             </select>
                         </div>
@@ -2781,11 +2779,10 @@
                                         <select id="palleon-templates-menu" class="palleon-select palleon-select2"
                                             autocomplete="off">
                                             <option value="all" selected>All Categories</option>
-                                            <option value="pg-duel">Pangram Duel</option>
                                             <option value="foto-pocket">F.o.t.o. Finish Pocket</option>
                                             <option value="foto">F.o.t.o. Finish</option>
-                                            <option value="shrek">S.H.R.E.K.</option>
-                                            <option value="shred">S.H.R.E.D.</option>
+                                            <option value="shrek">SHREK</option>
+                                            <option value="shred">SHRED</option>
 
                                         </select>
                                         <button id="palleon-template-search" type="button"
