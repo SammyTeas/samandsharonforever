@@ -6,7 +6,7 @@
         "thumbnail": "files/templates/img/1.jpg", 
         "image": "files/templates/img/1-large.jpg", 
         "template": "files/templates/json/1.json",
-        "tags": "shrek cat male fat"
+        "tags": "shrek"
     },
     {
         "id": "2", 
@@ -14,7 +14,7 @@
         "thumbnail": "files/templates/img/2.jpg", 
         "image": "files/templates/img/2-large.jpg", 
         "template": "files/templates/json/2.json",
-        "tags": "shrek cat female fat"
+        "tags": "shrek"
     },
     {
         "id": "3", 
@@ -22,7 +22,7 @@
         "thumbnail": "files/templates/img/3.jpg", 
         "image": "files/templates/img/3-large.jpg", 
         "template": "files/templates/json/3.json",
-        "tags": "shrek cat male athletic"
+        "tags": "shrek"
     },
     {
         "id": "4", 
@@ -30,7 +30,7 @@
         "thumbnail": "files/templates/img/4.jpg", 
         "image": "files/templates/img/4-large.jpg", 
         "template": "files/templates/json/4.json",
-        "tags": "shrek cat female athletic"
+        "tags": "shrek"
     },
     {
         "id": "5", 
@@ -38,7 +38,7 @@
         "thumbnail": "files/templates/img/5.jpg", 
         "image": "files/templates/img/5-large.jpg", 
         "template": "files/templates/json/5.json",
-        "tags": "shrek cat male anxious"
+        "tags": "shrek"
     },
     {
         "id": "6", 
@@ -46,7 +46,7 @@
         "thumbnail": "files/templates/img/6.jpg", 
         "image": "files/templates/img/6-large.jpg", 
         "template": "files/templates/json/6.json",
-        "tags": "shrek cat female anxious"
+        "tags": "shrek"
     },
     {
         "id": "7", 
@@ -54,7 +54,7 @@
         "thumbnail": "files/templates/img/7.jpg", 
         "image": "files/templates/img/7-large.jpg", 
         "template": "files/templates/json/7.json", 
-        "tags": "shrek cat male bratty"
+        "tags": "shrek"
     },
     {
         "id": "8", 
@@ -62,7 +62,7 @@
         "thumbnail": "files/templates/img/8.jpg", 
         "image": "files/templates/img/8-large.jpg", 
         "template": "files/templates/json/8.json", 
-        "tags": "shrek cat female bratty"
+        "tags": "shrek"
     },
     {
         "id": "9", 
@@ -70,7 +70,7 @@
         "thumbnail": "files/templates/img/9.jpg", 
         "image": "files/templates/img/9-large.jpg", 
         "template": "files/templates/json/9.json", 
-        "tags": "shrek cat male bonded"
+        "tags": "shrek"
     },
     {
         "id": "10", 
@@ -78,7 +78,7 @@
         "thumbnail": "files/templates/img/10.jpg", 
         "image": "files/templates/img/10-large.jpg", 
         "template": "files/templates/json/10.json", 
-        "tags": "shrek cat female bonded"
+        "tags": "shrek"
     },
     {
         "id": "11", 
@@ -86,7 +86,7 @@
         "thumbnail": "files/templates/img/11.jpg", 
         "image": "files/templates/img/11-large.jpg", 
         "template": "files/templates/json/11.json", 
-        "tags": "shreK cat male blank"
+        "tags": "shrek"
     },
     {
         "id": "12", 
@@ -94,7 +94,7 @@
         "thumbnail": "files/templates/img/12.jpg", 
         "image": "files/templates/img/12-large.jpg", 
         "template": "files/templates/json/12.json", 
-        "tags": "shrek cat female blank"
+        "tags": "shrek"
     },
     {
         "id": "13", 
@@ -102,7 +102,7 @@
         "thumbnail": "files/templates/img/13.jpg", 
         "image": "files/templates/img/13-large.jpg", 
         "template": "files/templates/json/13.json", 
-        "tags": "shrek cat male double"
+        "tags": "shrek"
     },
     {
         "id": "14", 
@@ -110,7 +110,7 @@
         "thumbnail": "files/templates/img/14.jpg", 
         "image": "files/templates/img/14-large.jpg", 
         "template": "files/templates/json/14.json", 
-        "tags": "shrek cat female double"
+        "tags": "shrek"
     },
     {
         "id": "15", 
@@ -118,7 +118,7 @@
         "thumbnail": "files/templates/img/15.jpg", 
         "image": "files/templates/img/15-large.jpg", 
         "template": "files/templates/json/15.json", 
-        "tags": "shrek shred yellow rabbit coyote"
+        "tags": "shrek"
     },
     {
         "id": "16", 
@@ -126,7 +126,7 @@
         "thumbnail": "files/templates/img/16.jpg", 
         "image": "files/templates/img/16-large.jpg", 
         "template": "files/templates/json/16.json",
-        "tags": "shred dog male large"
+        "tags": "shred"
     },
     {
         "id": "17", 
@@ -134,7 +134,7 @@
         "thumbnail": "files/templates/img/17.jpg", 
         "image": "files/templates/img/17-large.jpg", 
         "template": "files/templates/json/17.json",
-        "tags": "shred dog female large"
+        "tags": "shred large"
     },
     {
         "id": "18", 
@@ -142,7 +142,7 @@
         "thumbnail": "files/templates/img/18.jpg", 
         "image": "files/templates/img/18-large.jpg", 
         "template": "files/templates/json/18.json",
-        "tags": "shred dog male cute"
+        "tags": "shred"
     },
     {
         "id": "19", 
@@ -150,7 +150,7 @@
         "thumbnail": "files/templates/img/19.jpg", 
         "image": "files/templates/img/19-large.jpg", 
         "template": "files/templates/json/19.json",
-        "tags": "shred dog female cute"
+        "tags": "shred"
     },
     {
         "id": "20", 
@@ -158,7 +158,7 @@
         "thumbnail": "files/templates/img/20.jpg", 
         "image": "files/templates/img/20-large.jpg", 
         "template": "files/templates/json/20.json",
-        "tags": "shred dog male hyper hyperactive"
+        "tags": "shred"
     },
     {
         "id": "21", 
@@ -166,7 +166,7 @@
         "thumbnail": "files/templates/img/21.jpg", 
         "image": "files/templates/img/21-large.jpg", 
         "template": "files/templates/json/21.json",
-        "tags": "shred dog female hyper hyperactive"
+        "tags": "shred"
     },
     {
         "id": "22", 
@@ -174,7 +174,7 @@
         "thumbnail": "files/templates/img/22.jpg", 
         "image": "files/templates/img/22-large.jpg", 
         "template": "files/templates/json/22.json", 
-        "tags": "shred dog male bonded"
+        "tags": "shred"
     },
     {
         "id": "23", 
@@ -182,7 +182,7 @@
         "thumbnail": "files/templates/img/23.jpg", 
         "image": "files/templates/img/23-large.jpg", 
         "template": "files/templates/json/23.json", 
-        "tags": "shred dog female bonded"
+        "tags": "shred"
     },
     {
         "id": "24", 
@@ -190,7 +190,7 @@
         "thumbnail": "files/templates/img/24.jpg", 
         "image": "files/templates/img/24-large.jpg", 
         "template": "files/templates/json/24.json", 
-        "tags": "shred dog male blank"
+        "tags": "shred"
     },
     {
         "id": "25", 
@@ -198,7 +198,7 @@
         "thumbnail": "files/templates/img/25.jpg", 
         "image": "files/templates/img/25-large.jpg", 
         "template": "files/templates/json/25.json", 
-        "tags": "shred dog female blank"
+        "tags": "shred"
     },
     {
         "id": "26", 
@@ -206,7 +206,7 @@
         "thumbnail": "files/templates/img/26.jpg", 
         "image": "files/templates/img/26-large.jpg", 
         "template": "files/templates/json/26.json", 
-        "tags": "shred dog male double"
+        "tags": "shred"
     },
     {
         "id": "27", 
@@ -214,7 +214,7 @@
         "thumbnail": "files/templates/img/27.jpg", 
         "image": "files/templates/img/27-large.jpg", 
         "template": "files/templates/json/27.json", 
-        "tags": "shred dog female double"
+        "tags": "shred"
     },
     ]
 }
