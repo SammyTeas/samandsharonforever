@@ -67,7 +67,7 @@
     {
         "id": "9", 
         "title": "SHREK Male–Bonded Pair",
-        "thumbnail": "files/templates/img/9jpg", 
+        "thumbnail": "files/templates/img/9.jpg", 
         "image": "files/templates/img/9-large.jpg", 
         "template": "files/templates/json/9.json", 
         "tags": "shrek cat male bonded"
