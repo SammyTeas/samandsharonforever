@@ -60,7 +60,7 @@
         theme: "sp-light",
         palette: [
             ["#000000","#444444","#5b5b5b","#999999","#bcbcbc","#eeeeee","#f3f6f4","#ffffff"],
-            ["FF3F3F","#FFCD1B","#00A2DF","#8fce00","#54B947","#16537e","#6a329f","#c90076"],
+            ["FF3F3F","#FFCD1B","#00A2DF","#54B947","#8fce00","#16537e","#6a329f","#c90076"],
             ["#f4cccc","#fce5cd","#fff2cc","#d9ead3","#d0e0e3","#cfe2f3","#d9d2e9","#ead1dc"],
             ["#ea9999","#f9cb9c","#ffe599","#b6d7a8","#a2c4c9","#9fc5e8","#b4a7d6","#d5a6bd"],
             ["#e06666","#f6b26b","#ffd966","#93c47d","#76a5af","#6fa8dc","#8e7cc3","#c27ba0"],
