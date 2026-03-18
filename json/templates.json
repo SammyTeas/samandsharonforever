@@ -1,220 +1,39 @@
 {
-"templates": [
-    {
-        "id": "1", 
-        "title": "SHREK Male-Fat",
-        "thumbnail": "files/img/1.jpg", 
-        "image": "files/img/1-large.jpg", 
-        "template": "files/json/1.json",
-        "tags": "shrek"
-    },
-    {
-        "id": "2", 
-        "title": "SHREK Female-Fat",
-        "thumbnail": "files/img/2.jpg", 
-        "image": "files/img/2-large.jpg", 
-        "template": "files/json/2.json",
-        "tags": "shrek"
-    },
-    {
-        "id": "3", 
-        "title": "SHREK Male-Athletic",
-        "thumbnail": "files/img/3.jpg", 
-        "image": "files/img/3-large.jpg", 
-        "template": "files/json/3.json",
-        "tags": "shrek"
-    },
-    {
-        "id": "4", 
-        "title": "SHREK Female-Athletic",
-        "thumbnail": "files/img/4.jpg", 
-        "image": "files/img/4-large.jpg", 
-        "template": "files/json/4.json",
-        "tags": "shrek"
-    },
-    {
-        "id": "5", 
-        "title": "SHREK Male-Anxious",
-        "thumbnail": "files/img/5.jpg", 
-        "image": "files/img/5-large.jpg", 
-        "template": "files/json/5.json",
-        "tags": "shrek"
-    },
-    {
-        "id": "6", 
-        "title": "SHREK Female-Anxious",
-        "thumbnail": "files/img/6.jpg", 
-        "image": "files/img/6-large.jpg", 
-        "template": "files/json/6.json",
-        "tags": "shrek"
-    },
-    {
-        "id": "7", 
-        "title": "SHREK Male–Bratty",
-        "thumbnail": "files/img/7.jpg", 
-        "image": "files/img/7-large.jpg", 
-        "template": "files/json/7.json", 
-        "tags": "shrek"
-    },
-    {
-        "id": "8", 
-        "title": "SHREK Female–Bratty",
-        "thumbnail": "files/img/8.jpg", 
-        "image": "files/img/8-large.jpg", 
-        "template": "files/json/8.json", 
-        "tags": "shrek"
-    },
-    {
-        "id": "9", 
-        "title": "SHREK Male–Bonded Pair",
-        "thumbnail": "files/img/9.jpg", 
-        "image": "files/img/9-large.jpg", 
-        "template": "files/json/9.json", 
-        "tags": "shrek"
-    },
-    {
-        "id": "10", 
-        "title": "SHREK Female–Bonded Pair",
-        "thumbnail": "files/img/10.jpg", 
-        "image": "files/img/10-large.jpg", 
-        "template": "files/json/10.json", 
-        "tags": "shrek"
-    },
-    {
-        "id": "11", 
-        "title": "SHREK Male–Blank",
-        "thumbnail": "files/img/11.jpg", 
-        "image": "files/img/11-large.jpg", 
-        "template": "files/json/11.json", 
-        "tags": "shrek"
-    },
-    {
-        "id": "12", 
-        "title": "SHREK Female–Blank",
-        "thumbnail": "files/img/12.jpg", 
-        "image": "files/img/12-large.jpg", 
-        "template": "files/json/12.json", 
-        "tags": "shrek"
-    },
-    {
-        "id": "13", 
-        "title": "SHREK Male–Double",
-        "thumbnail": "files/img/13.jpg", 
-        "image": "files/img/13-large.jpg", 
-        "template": "files/json/13.json", 
-        "tags": "shrek"
-    },
-    {
-        "id": "14", 
-        "title": "SHREK Female–Double",
-        "thumbnail": "files/img/14.jpg", 
-        "image": "files/img/14-large.jpg", 
-        "template": "files/json/14.json", 
-        "tags": "shrek"
-    },
-    {
-        "id": "15", 
-        "title": "SHREK/SHRED—Yellow Border",
-        "thumbnail": "files/img/15.jpg", 
-        "image": "files/img/15-large.jpg", 
-        "template": "files/json/15.json", 
-        "tags": "shrek"
-    },
-    {
-        "id": "16", 
-        "title": "SHRED Male-Large",
-        "thumbnail": "files/img/16.jpg", 
-        "image": "files/img/16-large.jpg", 
-        "template": "files/json/16.json",
-        "tags": "shred"
-    },
-    {
-        "id": "17", 
-        "title": "SHRED Female-Large",
-        "thumbnail": "files/img/17.jpg", 
-        "image": "files/img/17-large.jpg", 
-        "template": "files/json/17.json",
-        "tags": "shred large"
-    },
-    {
-        "id": "18", 
-        "title": "SHRED Male-Cute",
-        "thumbnail": "files/img/18.jpg", 
-        "image": "files/img/18-large.jpg", 
-        "template": "files/json/18.json",
-        "tags": "shred"
-    },
-    {
-        "id": "19", 
-        "title": "SHRED Female-Cute",
-        "thumbnail": "files/img/19.jpg", 
-        "image": "files/img/19-large.jpg", 
-        "template": "files/json/19.json",
-        "tags": "shred"
-    },
-    {
-        "id": "20", 
-        "title": "SHRED Male-Hyper",
-        "thumbnail": "files/img/20.jpg", 
-        "image": "files/img/20-large.jpg", 
-        "template": "files/json/20.json",
-        "tags": "shred"
-    },
-    {
-        "id": "21", 
-        "title": "SHRED Female-Hyper",
-        "thumbnail": "files/img/21.jpg", 
-        "image": "files/img/21-large.jpg", 
-        "template": "files/json/21.json",
-        "tags": "shred"
-    },
-    {
-        "id": "22", 
-        "title": "SHRED Male–Bonded Pair",
-        "thumbnail": "files/img/22.jpg", 
-        "image": "files/img/22-large.jpg", 
-        "template": "files/json/22.json", 
-        "tags": "shred"
-    },
-    {
-        "id": "23", 
-        "title": "SHRED Female–Bonded Pair",
-        "thumbnail": "files/img/23.jpg", 
-        "image": "files/img/23-large.jpg", 
-        "template": "files/json/23.json", 
-        "tags": "shred"
-    },
-    {
-        "id": "24", 
-        "title": "SHRED Male–Blank",
-        "thumbnail": "files/img/24.jpg", 
-        "image": "files/img/24-large.jpg", 
-        "template": "files/json/24.json", 
-        "tags": "shred"
-    },
-    {
-        "id": "25", 
-        "title": "SHRED Female–Blank",
-        "thumbnail": "files/img/25.jpg", 
-        "image": "files/img/25-large.jpg", 
-        "template": "files/json/25.json", 
-        "tags": "shred"
-    },
-    {
-        "id": "26", 
-        "title": "SHRED Male–Double",
-        "thumbnail": "files/img/26.jpg", 
-        "image": "files/img/26-large.jpg", 
-        "template": "files/json/26.json", 
-        "tags": "shred"
-    },
-    {
-        "id": "27", 
-        "title": "SHRED Female–Double",
-        "thumbnail": "files/img/27.jpg", 
-        "image": "files/img/27-large.jpg", 
-        "template": "files/json/27.json", 
-        "tags": "shred"
-    }
-    ]
+  "templates": [
+    { "id": "1", "title": "FOTO Finish–Red", "thumbnail": "files/img/fotoR.jpg", "image": "files/img/fotoR.jpg", "template": "files/json/fotoR.json", "tags": "foto" },
+    { "id": "1", "title": "FOTO Finish–Yellow", "thumbnail": "files/img/fotoY.jpg", "image": "files/img/fotoY.jpg", "template": "files/json/fotoY.json", "tags": "foto" },
+    { "id": "1", "title": "FOTO Finish–Green", "thumbnail": "files/img/fotoG.jpg", "image": "files/img/fotorG.jpg", "template": "files/json/fotoG.json", "tags": "foto" },
+    { "id": "1", "title": "FOTO Finish–Blue", "thumbnail": "files/img/fotorB.jpg", "image": "files/img/fotoB.jpg", "template": "files/json/fotorB.json", "tags": "foto" },
+    { "id": "1", "title": "FOTO Pocket–Red", "thumbnail": "files/img/fotoPr.jpg", "image": "files/img/fotoPr.jpg", "template": "files/json/fotoPr.json", "tags": "foto pocket" },
+    { "id": "1", "title": "FOTO Pocket–Yellow", "thumbnail": "files/img/fotorPy.jpg", "image": "files/img/fotoPy.jpg", "template": "files/json/fotoPy.json", "tags": "foto pocket" },
+    { "id": "1", "title": "FOTO Pocket–Green", "thumbnail": "files/img/fotoPg.jpg", "image": "files/img/fotoPg.jpg", "template": "files/json/fotoPg.json", "tags": "foto pocket" },
+    { "id": "1", "title": "FOTO Pocket–Blue", "thumbnail": "files/img/fotoPb.jpg", "image": "files/img/fotoPb.jpg", "template": "files/json/fotoPb.json", "tags": "foto pocket" },
+    { "id": "9", "title": "SHREK Male-Fat", "thumbnail": "files/img/1.jpg", "image": "files/img/1-large.jpg", "template": "files/json/1.json", "tags": "shrek" },
+    { "id": "10", "title": "SHREK Female-Fat", "thumbnail": "files/img/2.jpg", "image": "files/img/2-large.jpg", "template": "files/json/2.json", "tags": "shrek" },
+    { "id": "11", "title": "SHREK Male-Athletic", "thumbnail": "files/img/3.jpg", "image": "files/img/3-large.jpg", "template": "files/json/3.json", "tags": "shrek" },
+    { "id": "12", "title": "SHREK Female-Athletic", "thumbnail": "files/img/4.jpg", "image": "files/img/4-large.jpg", "template": "files/json/4.json", "tags": "shrek" },
+    { "id": "13", "title": "SHREK Male-Anxious", "thumbnail": "files/img/5.jpg", "image": "files/img/5-large.jpg", "template": "files/json/5.json", "tags": "shrek" },
+    { "id": "14", "title": "SHREK Female-Anxious", "thumbnail": "files/img/6.jpg", "image": "files/img/6-large.jpg", "template": "files/json/6.json", "tags": "shrek" },
+    { "id": "15", "title": "SHREK Male–Bratty", "thumbnail": "files/img/7.jpg", "image": "files/img/7-large.jpg", "template": "files/json/7.json", "tags": "shrek" },
+    { "id": "16", "title": "SHREK Female–Bratty", "thumbnail": "files/img/8.jpg", "image": "files/img/8-large.jpg", "template": "files/json/8.json", "tags": "shrek" },
+    { "id": "17", "title": "SHREK Male–Bonded Pair", "thumbnail": "files/img/9.jpg", "image": "files/img/9-large.jpg", "template": "files/json/9.json", "tags": "shrek" },
+    { "id": "18", "title": "SHREK Female–Bonded Pair", "thumbnail": "files/img/10.jpg", "image": "files/img/10-large.jpg", "template": "files/json/10.json", "tags": "shrek" },
+    { "id": "19", "title": "SHREK Male–Blank", "thumbnail": "files/img/11.jpg", "image": "files/img/11-large.jpg", "template": "files/json/11.json", "tags": "shrek" },
+    { "id": "20", "title": "SHREK Female–Blank", "thumbnail": "files/img/12.jpg", "image": "files/img/12-large.jpg", "template": "files/json/12.json", "tags": "shrek" },
+    { "id": "21", "title": "SHREK Male–Double", "thumbnail": "files/img/13.jpg", "image": "files/img/13-large.jpg", "template": "files/json/13.json", "tags": "shrek" },
+    { "id": "22", "title": "SHREK Female–Double", "thumbnail": "files/img/14.jpg", "image": "files/img/14-large.jpg", "template": "files/json/14.json", "tags": "shrek" },
+    { "id": "23", "title": "SHREK/SHRED—Yellow Border", "thumbnail": "files/img/15.jpg", "image": "files/img/15-large.jpg", "template": "files/json/15.json", "tags": "shrek" },
+    { "id": "24", "title": "SHRED Male-Large", "thumbnail": "files/img/16.jpg", "image": "files/img/16-large.jpg", "template": "files/json/16.json", "tags": "shred" },
+    { "id": "25", "title": "SHRED Female-Large", "thumbnail": "files/img/17.jpg", "image": "files/img/17-large.jpg", "template": "files/json/17.json", "tags": "shred large" },
+    { "id": "26", "title": "SHRED Male-Cute", "thumbnail": "files/img/18.jpg", "image": "files/img/18-large.jpg", "template": "files/json/18.json", "tags": "shred" },
+    { "id": "27", "title": "SHRED Female-Cute", "thumbnail": "files/img/19.jpg", "image": "files/img/19-large.jpg", "template": "files/json/19.json", "tags": "shred" },
+    { "id": "28", "title": "SHRED Male-Hyper", "thumbnail": "files/img/20.jpg", "image": "files/img/20-large.jpg", "template": "files/json/20.json", "tags": "shred" },
+    { "id": "29", "title": "SHRED Female-Hyper", "thumbnail": "files/img/21.jpg", "image": "files/img/21-large.jpg", "template": "files/json/21.json", "tags": "shred" },
+    { "id": "30", "title": "SHRED Male–Bonded Pair", "thumbnail": "files/img/22.jpg", "image": "files/img/22-large.jpg", "template": "files/json/22.json", "tags": "shred" },
+    { "id": "31", "title": "SHRED Female–Bonded Pair", "thumbnail": "files/img/23.jpg", "image": "files/img/23-large.jpg", "template": "files/json/23.json", "tags": "shred" },
+    { "id": "32", "title": "SHRED Male–Blank", "thumbnail": "files/img/24.jpg", "image": "files/img/24-large.jpg", "template": "files/json/24.json", "tags": "shred" },
+    { "id": "33", "title": "SHRED Female–Blank", "thumbnail": "files/img/25.jpg", "image": "files/img/25-large.jpg", "template": "files/json/25.json", "tags": "shred" },
+    { "id": "34", "title": "SHRED Male–Double", "thumbnail": "files/img/26.jpg", "image": "files/img/26-large.jpg", "template": "files/json/26.json", "tags": "shred" },
+    { "id": "35", "title": "SHRED Female–Double", "thumbnail": "files/img/27.jpg", "image": "files/img/27-large.jpg", "template": "files/json/27.json", "tags": "shred" }
+  ]
 }
